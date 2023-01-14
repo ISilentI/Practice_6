@@ -1,0 +1,6 @@
+{
+    "require-dev": {
+        "nelmio/alice": "^3.12",
+        "szymach/c-pchart": "^3.0"
+    }
+}
